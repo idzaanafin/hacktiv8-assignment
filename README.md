@@ -1,4 +1,4 @@
-# Hacktiv8 Assignment - Product Management API
+# Hacktiv8 Assignment - Membangun REST API E-Commerce (Produk, Sumber, dan Transaksi)
 
 REST API untuk manajemen produk, sumber (sources), dan transaksi menggunakan Go Gin framework.
 
